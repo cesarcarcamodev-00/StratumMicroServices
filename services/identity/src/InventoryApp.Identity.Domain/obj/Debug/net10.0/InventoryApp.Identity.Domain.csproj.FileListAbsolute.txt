@@ -1,0 +1,11 @@
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\bin\Debug\net10.0\InventoryApp.Identity.Domain.deps.json
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\bin\Debug\net10.0\InventoryApp.Identity.Domain.dll
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\bin\Debug\net10.0\InventoryApp.Identity.Domain.pdb
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\InventoryApp.Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\InventoryApp.Identity.Domain.AssemblyInfoInputs.cache
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\InventoryApp.Identity.Domain.AssemblyInfo.cs
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\InventoryApp.Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\InventoryApp.Identity.Domain.dll
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\refint\InventoryApp.Identity.Domain.dll
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\InventoryApp.Identity.Domain.pdb
+C:\Users\Cesar\OneDrive\Documents\My Web Sites\InventoryApp\services\identity\src\InventoryApp.Identity.Domain\obj\Debug\net10.0\ref\InventoryApp.Identity.Domain.dll

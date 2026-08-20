@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\services\\inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\services\\inventory\\src\\inventoryapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|solutionrelative:src\\inventoryapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75c83ab3-5264-45e8-ad32-5c8a41ad477d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\services\\inventory\\src\\InventoryApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\services\\inventory\\src\\InventoryApp.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\InventoryApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAACUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T00:39:00.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

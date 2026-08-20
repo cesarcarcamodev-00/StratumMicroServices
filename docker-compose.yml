@@ -1,0 +1,67 @@
+name: stratum
+
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: stratum-postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-inventory}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-inventory123}
+      POSTGRES_DB: ${POSTGRES_DB:-inventory}
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-inventory} -d ${POSTGRES_DB:-inventory}"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    restart: unless-stopped
+
+  identity:
+    build:
+      context: ./services/identity
+      dockerfile: Dockerfile
+    container_name: stratum-identity
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      PersistenceSettings__Provider: Postgres
+      ConnectionStrings__PostgresConnection: "Host=postgres;Port=5432;Database=${POSTGRES_DB:-inventory};Username=${POSTGRES_USER:-inventory};Password=${POSTGRES_PASSWORD:-inventory123}"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "5001:8080"
+    restart: unless-stopped
+
+  inventory:
+    build:
+      context: ./services/inventory
+      dockerfile: Dockerfile
+    container_name: stratum-inventory
+    environment:
+      ASPNETCORE_ENVIRONMENT: Production
+      PersistenceSettings__Provider: Postgres
+      ConnectionStrings__PostgresConnection: "Host=postgres;Port=5432;Database=${POSTGRES_DB:-inventory};Username=${POSTGRES_USER:-inventory};Password=${POSTGRES_PASSWORD:-inventory123}"
+    depends_on:
+      postgres:
+        condition: service_healthy
+    ports:
+      - "5000:8080"
+    restart: unless-stopped
+
+  frontend:
+    build:
+      context: ./apps/portal
+      dockerfile: Dockerfile
+    container_name: stratum-frontend
+    depends_on:
+      - inventory
+      - identity
+    ports:
+      - "3000:80"
+    restart: unless-stopped
+
+volumes:
+  postgres-data:

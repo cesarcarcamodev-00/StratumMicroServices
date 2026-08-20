@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUEdu5SMfBI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\StratumApp\\services\\inventory\\src\\InventoryApp.Application\\InventoryApp.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cesar\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.11.0\\fluentvalidation.dependencyinjectionextensions.11.11.0.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\mapster.dependencyinjection\\1.0.1\\mapster.dependencyinjection.1.0.1.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.4\\microsoft.entityframeworkcore.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.4\\microsoft.entityframeworkcore.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.4\\microsoft.entityframeworkcore.analyzers.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\10.0.4\\microsoft.extensions.caching.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.caching.memory\\10.0.4\\microsoft.extensions.caching.memory.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.4\\microsoft.extensions.dependencyinjection.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.4\\microsoft.extensions.dependencyinjection.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.logging\\10.0.4\\microsoft.extensions.logging.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.4\\microsoft.extensions.logging.abstractions.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.options\\10.0.4\\microsoft.extensions.options.10.0.4.nupkg.sha512",
+    "C:\\Users\\Cesar\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.4\\microsoft.extensions.primitives.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

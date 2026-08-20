@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InventoryApp.Identity.Application/InventoryApp.Identity.Application.csproj" />
+    <Project Path="src/InventoryApp.Identity.Domain/InventoryApp.Identity.Domain.csproj" />
+    <Project Path="src/InventoryApp.Identity.Infrastructure/InventoryApp.Identity.Infrastructure.csproj" />
+    <Project Path="src/InventoryApp.Identity.WebApi/InventoryApp.Identity.WebApi.csproj" />
+  </Folder>
+</Solution>

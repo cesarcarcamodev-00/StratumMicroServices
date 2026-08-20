@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C11E90-5653-7F8B-7E89-C80E67BE2C38}|src\\InventoryApp.Infrastructure\\InventoryApp.Infrastructure.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.infrastructure\\persistence\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C11E90-5653-7F8B-7E89-C80E67BE2C38}|src\\InventoryApp.Infrastructure\\InventoryApp.Infrastructure.csproj|solutionrelative:src\\inventoryapp.infrastructure\\persistence\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8E23BC-EC4B-6AFA-8FE8-9F988D812ED6}|src\\InventoryApp.Application\\InventoryApp.Application.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.application\\common\\mappings\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8E23BC-EC4B-6AFA-8FE8-9F988D812ED6}|src\\InventoryApp.Application\\InventoryApp.Application.csproj|solutionrelative:src\\inventoryapp.application\\common\\mappings\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|solutionrelative:src\\inventoryapp.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|solutionrelative:src\\inventoryapp.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C11E90-5653-7F8B-7E89-C80E67BE2C38}|src\\InventoryApp.Infrastructure\\InventoryApp.Infrastructure.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C11E90-5653-7F8B-7E89-C80E67BE2C38}|src\\InventoryApp.Infrastructure\\InventoryApp.Infrastructure.csproj|solutionrelative:src\\inventoryapp.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.webapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|solutionrelative:src\\inventoryapp.webapi\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|c:\\users\\cesar\\onedrive\\documents\\my web sites\\inventoryapp\\backend\\src\\inventoryapp.webapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B92870-DF71-51F6-7DF2-B907A6947A3A}|src\\InventoryApp.WebApi\\InventoryApp.WebApi.csproj|solutionrelative:src\\inventoryapp.webapi\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75c83ab3-5264-45e8-ad32-5c8a41ad477d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.Infrastructure\\Persistence\\SeedData.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.Infrastructure\\Persistence\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.Infrastructure\\Persistence\\SeedData.cs",
+              "RelativeToolTip": "src\\InventoryApp.Infrastructure\\Persistence\\SeedData.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T00:06:21.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.Application\\Common\\Mappings\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.Application\\Common\\Mappings\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.Application\\Common\\Mappings\\MappingConfig.cs",
+              "RelativeToolTip": "src\\InventoryApp.Application\\Common\\Mappings\\MappingConfig.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T15:07:28.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\InventoryApp.WebApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\appsettings.Development.json",
+              "RelativeToolTip": "src\\InventoryApp.WebApi\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-09T14:40:18.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\InventoryApp.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T14:39:23.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\Program.cs",
+              "RelativeToolTip": "src\\InventoryApp.WebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T14:04:38.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.WebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "src\\InventoryApp.WebApi\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T14:04:29.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "src\\InventoryApp.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\Cesar\\OneDrive\\Documents\\My Web Sites\\InventoryApp\\backend\\src\\InventoryApp.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "src\\InventoryApp.WebApi\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-09T14:04:25.931Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
